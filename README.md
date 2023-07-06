@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Evandra Raditya Fauzan
-Currently student at SMKN 7 Semarang
-
+![GIF](https://giphy.com/embed/26tn33aiTi1jkl6H6)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/evandrarf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evandraraditya) 
