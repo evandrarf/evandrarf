@@ -32,12 +32,9 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=evandrarf&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=evandrarf&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=evandrarf&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=evandrarf&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=evandrarf&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=evandrarf&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=evandrarf&theme=shadow_blue&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=evandrarf&limit=5&theme=onedark&combine_all_yearly_contributions=true)
