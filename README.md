@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 I’m currently learning Laravel, Vuejs, React<br>💬 Ask me about Laravel<br>
+# 👋 Hi, I'm Evandra Raditya Fauzan
+Currently student at SMKN 7 Semarang
 
 
 ## 🌐 Socials:
