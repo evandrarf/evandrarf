@@ -37,7 +37,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=evandrarf&theme=shadow_blue&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=evandrarf&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=evandrarf&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=evandrarf&icon=0&color=0)](https://visitcount.itsvg.in)
