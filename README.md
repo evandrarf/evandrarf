@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Evandra Raditya Fauzan
-<img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="gif" width="100%" />
+<img src="https://i.postimg.cc/rFHJ3pdn/Spanduk-Linked-In-Biru-dan-Putih-Abstrak-Teknologi.png" alt="banner" width="100%" />
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/evandrarf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evandraraditya) 
